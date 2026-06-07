@@ -1,23 +1,17 @@
 # MiniSocial React App
 
-## 📌 Deskripsi
+#Deskripsi
 Project ini adalah website sosial media sederhana menggunakan React JS.
 Data user diambil dari API JSONPlaceholder.
 
----
-
-# 🚀 Fitur
-
+#Fitur
 - Menampilkan data user
 - Search username
 - Like button
 - Follow button
 - Avatar otomatis
 - Tampilan modern
-
----
-
-# 🧠 Penjelasan React Hook
+#Penjelasan React Hook
 
 ## 1. useState
 Digunakan untuk menyimpan data seperti:
